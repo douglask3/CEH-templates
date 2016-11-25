@@ -26,15 +26,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.24748737"
-     inkscape:cx="2002.1595"
-     inkscape:cy="1129.6435"
+     inkscape:zoom="0.35000001"
+     inkscape:cx="1259.028"
+     inkscape:cy="3012.6244"
      inkscape:document-units="px"
      inkscape:current-layer="layer2"
      showgrid="false"
      units="cm"
      inkscape:window-width="1366"
-     inkscape:window-height="706"
+     inkscape:window-height="705"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1" />
@@ -46,7 +46,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -55,12 +55,12 @@
      id="layer2"
      inkscape:label="Background Colour">
     <rect
-       style="fill:#a2d88c;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       style="fill:#a2d88c;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:0.99402869px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        id="rect3354"
-       width="4213.5303"
-       height="357.46451"
-       x="0.11258698"
-       y="1.3035126" />
+       width="4211.998"
+       height="353.33667"
+       x="0.49701434"
+       y="0.49697223" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4169"
@@ -139,7 +139,7 @@
            x="72.73098"
            y="2794.0532"
            style="font-size:50px;-inkscape-font-specification:Arial;font-family:Arial;font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;" /></flowRegion><flowPara
-         id="flowPara3433"></flowPara></flowRoot>    <flowRoot
+         id="flowPara3433" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot3435"
        style="font-style:normal;font-weight:normal;font-size:40px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -178,26 +178,26 @@
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Arial;-inkscape-font-specification:Arial">BECUASE: ADD YOUR BECAUSE ANSWER</flowPara><flowPara
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:50px;font-family:Arial;-inkscape-font-specification:Arial"
          id="flowPara3443-1">REDUCE/ENLOARGE FONT SIZE TO FIT</flowPara></flowRoot>    <image
-       sodipodi:absref="C:\Users\Lozza\Documents\work\git\CEH-templates\images\nerc-logo.jpg"
+       sodipodi:absref="C:\Users\dougl\Documents\work\CEH-templates\poster\..\images\nerc-logo.jpg"
+       xlink:href="..\images\nerc-logo.jpg"
        y="2799.7014"
        x="3570.2957"
        id="image3488"
-       xlink:href="file:///C:/Users/Lozza/Documents/work/git/CEH-templates/images/nerc-logo.jpg"
        preserveAspectRatio="none"
        height="120.85168"
        width="593.13708" />
   </g>
   <g
-     inkscape:label="Layer 1"
+     inkscape:label="Header and Footer"
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,1927.559)">
     <image
-       sodipodi:absref="C:\Users\Lozza\Documents\work\git\CEH-templates\images\CEH-long-white.png"
+       sodipodi:absref="C:\Users\dougl\Documents\work\CEH-templates\poster\..\images\CEH-long-white.png"
+       xlink:href="..\images\CEH-long-white.png"
        y="-1901.6362"
        x="61.737"
        id="image3351"
-       xlink:href="file:///C:/Users/Lozza/Documents/work/git/CEH-templates/images/CEH-long-white.png"
        preserveAspectRatio="none"
        height="207.64488"
        width="867.31671" />
